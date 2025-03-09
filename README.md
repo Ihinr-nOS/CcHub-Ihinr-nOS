@@ -1,6 +1,6 @@
-# Oniro Documentation
+# PureHarmony Documentation
 
-Welcome to the Oniro Project documentation repository. This repository hosts the documentation for the Oniro Project, an Eclipse Foundation initiative dedicated to developing an open-source, vendor-neutral Operating System (OS) platform. Oniro builds upon OpenHarmony, extending its capabilities to provide a versatile platform for smart devices across various industries.
+Welcome to the PureHarmony Project documentation repository. This repository hosts the documentation for the PureHarmony Project, an Green Hat project dedicated to developing an open-source, vendor-neutral Operating System (OS) platform. PureHarmony builds upon Oniro from OpenHarmony foundation, extending its capabilities to provide a versatile platform for smart devices across various industries.
 
 ## Documentation Structure
 
@@ -8,7 +8,7 @@ This documentation is powered by [Jekyll](https://jekyllrb.com) and uses the [Ju
 
 ### View the Generated Documentation
 
-The latest version of the Oniro Project documentation is available at: [docs.oniroproject.org](https://docs.oniroproject.org/).
+The latest version of the PureHarmony Project documentation is available at: [docs.oniroproject.org](https://docs.oniroproject.org/).
 
 ## Building the Documentation Locally
 
