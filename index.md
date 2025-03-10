@@ -9,7 +9,11 @@ has_children: true
 
 > *PureHarmony™ is a copyleft project of Green Hat org.*
 >
-> *On 9, March 2025, the Green Hat PureHarmony project officially established. 
+> *On 9, March 2025, the Green Hat PureHarmony project officially established.
+
+
+# Welcome to PureHarmony platform based on Oniro
+PureHarmony operating system hosts the code and repositories for add-ons and enhancements to the OpenHarmony project. These enhancements are part of the base OS, Oniro Project, an open-source, vendor-neutral operating system managed by the Eclipse Foundation. Source model of PureHarmony is a mixed-model distribution, HarmonyOS in reverse like a shell, Open source for community, but with proprietary app resource components for industry intellectual property and by industry. The multi-kernel system with Asterinas, Linux ABI friendly, framekernel replacing Linux kernel reliance on standard system with musl-libc integration and Zig progamming language, Open Mobile Hub friendly environment for app developers with standardised stack of NearLink and GPMI.
 
 ## About Oniro
 
