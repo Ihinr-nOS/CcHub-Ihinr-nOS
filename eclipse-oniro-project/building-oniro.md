@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Building Oniro
-parent: Eclipse Oniro Project
+title: Building PureHarmony
+parent: The Green Hat PureHarmony Project
 ---
 
 # Building Oniro
