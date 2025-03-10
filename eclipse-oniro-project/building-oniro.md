@@ -4,7 +4,7 @@ title: Building PureHarmony
 parent: The Green Hat PureHarmony Project
 ---
 
-# Building Oniro
+# Building PureHarmony
 
 Before beginning, ensure that [`git-lfs`](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) and [`repo`](https://gerrit.googlesource.com/git-repo) are installed. It is recommended to have at least 100GB of free disk space available for the full build.
 
