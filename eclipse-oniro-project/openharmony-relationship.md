@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OpenHarmony Downstream / Upstream relationship
-parent: Eclipse Oniro Project
+parent: Green Hat PureHarmony Project
 ---
 # OpenHarmony Downstream / Upstream relationship
 
