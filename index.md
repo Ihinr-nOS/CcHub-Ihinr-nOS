@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Eclipse Oniro Project
+title: Green Hat PureHarmony Project
 nav_order: 1
 has_children: true
 ---
 
-# Welcome to Oniro Project documentation!
+# Welcome to PureHarmony Project documentation!
 
-> *Oniro™ is a registered trademark of Eclipse Foundation.*
+> *PureHarmony™ is a copyleft project of Green Hat org.*
 >
-> *In 2023, the Oniro project underwent a significant transition. For those seeking information on the project's previous developments, including the state of the art [IP compliance toolchain](https://oniroproject.readthedocs.io/en/latest/releases/2.0/2.0.0/ip_compliance_note.html), please consult our [legacy documentation](https://oniroproject.readthedocs.io/).*
+> *On 9, March 2025, the Green Hat PureHarmony project officially established. 
 
 ## About Oniro
 
