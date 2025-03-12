@@ -1,6 +1,6 @@
 # PureHarmony Documentation
 
-Welcome to the PureHarmony Project documentation repository. This repository hosts the documentation for the PureHarmony Project, an Green Hat project dedicated to developing an open-source, vendor-neutral Operating System (OS) platform. PureHarmony builds upon Oniro from OpenHarmony foundation, extending its capabilities to provide a versatile platform for smart devices across various industries.
+Welcome to the IhinrẹnOS  Project documentation repository. This repository hosts the documentation for the IhinrẹnOS  Project, a CcHub project dedicated to developing an open-source, vendor-neutral Operating System (OS) platform. IhinrẹnOS  builds upon PureHarmony from Oniro-OpenHarmony foundation, extending its capabilities to provide a versatile platform for smart devices across various industries.
 
 ## Documentation Structure
 
